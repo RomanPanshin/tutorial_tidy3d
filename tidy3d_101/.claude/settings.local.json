@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk *)",
+      "mcp__tidy3d__search_flexcompute_docs"
+    ]
+  }
+}
